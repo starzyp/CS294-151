@@ -166,6 +166,9 @@ Blockchain is an evolving technology that enables executing transactions and sma
 
 
 ## Class format and project
+This is a project oriented class. Each lecture will focus on one of the research topics on blockchain and cryptocurrencies. Each week, students are expected to complete reading assignments before class and participate actively in class discussion.
+
+Students will also form project groups and complete a high-impact research project. The final project/deliverable will be a team presentation and a paper/report on the project.
 
 
 ## Enrollment information
