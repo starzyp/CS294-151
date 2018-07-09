@@ -58,11 +58,8 @@ Blockchain is an evolving technology that enables executing transactions and sma
       <td>09/03</td>
       <td></td>
       <td></td>
+      <td>      </td>
       <td>
-
-      </td>
-      <td>
-       
       </td>
       <td></td>
     </tr>
@@ -71,11 +68,9 @@ Blockchain is an evolving technology that enables executing transactions and sma
       <td></td>
       <td></td>
       <td>
-        
-      </td>
+         </td>
       <td>
-       
-      </td>
+        </td>
       <td></td>
     </tr>
     <tr>
@@ -85,7 +80,6 @@ Blockchain is an evolving technology that enables executing transactions and sma
       <td>
       </td>
       <td>
-       
       </td>
       <td></td>
     </tr>
@@ -96,7 +90,6 @@ Blockchain is an evolving technology that enables executing transactions and sma
       </td>
       <td></td>
       <td>
-       
       </td> 
       <td></td>
     </tr>
@@ -123,7 +116,6 @@ Blockchain is an evolving technology that enables executing transactions and sma
       <td>
       </td>
       <td>
-        
       </td>
       <td></td>
     </tr>
@@ -161,7 +153,6 @@ Blockchain is an evolving technology that enables executing transactions and sma
       <td>
       </td>
       <td>
-        
       </td>
       <td></td>
     </tr>
@@ -170,10 +161,8 @@ Blockchain is an evolving technology that enables executing transactions and sma
       <td></td>
       <td></td>
       <td>
-       
       </td>
       <td>
-        
       </td>
       <td></td>
     </tr>
@@ -183,10 +172,8 @@ Blockchain is an evolving technology that enables executing transactions and sma
       <td>
        </td>
       <td>
-      	
       </td>
       <td>
-	
       </td>
       <td></td>
     </tr>
