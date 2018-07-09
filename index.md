@@ -38,9 +38,8 @@ Blockchain is an evolving technology that enables executing transactions and sma
   <thead>
     <tr>
       <th style="width: 5%;">Date</th>
-      <th style="width: 5%;">Location</th>
       <th style="width: 40%;">Topic</th>
-      <th style="width: 50%;">Readings</th>
+      <th style="width: 55%;">Readings</th>
       <th style="width: 20%;">Talk</th>
       <th style="width: 10%;">Deadlines</th>
     </tr>
@@ -52,12 +51,10 @@ Blockchain is an evolving technology that enables executing transactions and sma
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>09/03</td>
-      <td></td>
-      <td></td>
+      <td>No Class, Labor Day</td>
       <td>      </td>
       <td>
       </td>
@@ -65,7 +62,6 @@ Blockchain is an evolving technology that enables executing transactions and sma
     </tr>
     <tr>
       <td>09/10</td>
-      <td></td>
       <td></td>
       <td>
          </td>
@@ -77,7 +73,6 @@ Blockchain is an evolving technology that enables executing transactions and sma
       <td>09/17</td>
       <td></td>
       <td>
-      <td>
       </td>
       <td>
       </td>
@@ -85,7 +80,6 @@ Blockchain is an evolving technology that enables executing transactions and sma
     </tr>
     <tr>
       <td>09/24</td>
-      <td></td>
       <td>
       </td>
       <td></td>
@@ -99,11 +93,9 @@ Blockchain is an evolving technology that enables executing transactions and sma
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>10/08</td>
-      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -117,7 +109,6 @@ Blockchain is an evolving technology that enables executing transactions and sma
       </td>
       <td>
       </td>
-      <td></td>
     </tr>
     <tr>
       <td>10/22</td>
@@ -125,11 +116,9 @@ Blockchain is an evolving technology that enables executing transactions and sma
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>10/29</td>
-      <td></td>
       <td>
       </td>
       <td></td>
@@ -143,13 +132,10 @@ Blockchain is an evolving technology that enables executing transactions and sma
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>11/12</td>
-      <td></td>
-      <td>
-      </td>
+      <td>No Class, Veterans Day</td>
       <td>
       </td>
       <td>
@@ -159,7 +145,6 @@ Blockchain is an evolving technology that enables executing transactions and sma
     <tr>
       <td>11/19</td>
       <td></td>
-      <td></td>
       <td>
       </td>
       <td>
@@ -168,7 +153,6 @@ Blockchain is an evolving technology that enables executing transactions and sma
     </tr>
     <tr>
       <td>11/26</td>
-      <td></td>
       <td>
        </td>
       <td>
