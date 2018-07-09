@@ -180,4 +180,5 @@ Students will also form project groups and complete a high-impact research proje
 
 ## Additional Notes
 
+For students who need computing resources for the class project, we recommend you to look into AWS educate program for students. You’ll get 100 dollar’s worth of sign up credit. Here’s the [link](https://aws.amazon.com/education/awseducate/apply/).
 
