@@ -177,8 +177,6 @@ Blockchain is an evolving technology that enables executing transactions and sma
       </td>
       <td></td>
     </tr>
-    
-    
   </tbody>
 </table>
 
